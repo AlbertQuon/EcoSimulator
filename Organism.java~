@@ -1,0 +1,35 @@
+/*
+ * 
+ * 
+ */
+
+abstract class Organism {
+  private Boolean disease;
+  private int health;
+  Organism() {
+    this.health = ((int)(Math.random()*10)+10);
+    disease = false;
+  }
+  
+  Organism(int health) {
+    this.health = health;
+    disease = false;
+  }
+  
+  public int getHealth(){
+    return this.health;
+  }
+  
+  public void setHealth(int amount) {
+    this.health = amount;
+  }
+  
+  public Boolean getDisease() {
+    return this.disease;
+  }
+  
+  public void setDisease(Boolean diseased) {
+    this.disease = diseased;
+  }
+  
+}

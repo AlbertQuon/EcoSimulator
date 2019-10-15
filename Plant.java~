@@ -1,0 +1,18 @@
+/* [Plant.java]
+ * The class for the plants in java, extending from the organism superclass
+ * @author Albert Quon
+ * 05/06/2018
+ */
+
+public class Plant extends Organism {
+  
+  /**
+   * This method
+   * @para
+   * @return
+   */
+  Plant(){
+    super();
+  }
+  
+}

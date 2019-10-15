@@ -1,0 +1,59 @@
+/* [Animal.java]
+ * Abstract class that creates basic information for all Animals
+ * Albert Quon
+ * 05/06/2018
+ */
+import java.util.Random;
+
+abstract class Animal extends Organism{
+  Random rand = new Random();
+  private boolean male;
+  private int age, stamina;
+  
+  
+  Animal(int health, int stamina) {
+    super(health);
+    male = rand.nextBoolean();
+    age = 0;
+    this.stamina = stamina;
+  }
+
+  Animal(int health, int age, int stamina) {
+    super(health);
+    male = rand.nextBoolean();
+    this.age = age;
+    this.stamina = stamina;
+    
+  }
+  Animal() {
+    super();
+    age = 0;
+    male = rand.nextBoolean();
+    stamina = 2;
+  }
+  
+  public int getAge() {
+    return this.age;
+  }
+  
+  public void setAge(int age) {
+    this.age = age;
+  }
+    
+  public int getStamina() {
+    return this.stamina;
+  }
+  public void setStamina(int amount) {
+    this.stamina = amount;
+  }
+  
+  boolean getGender() {
+    return male;
+  }
+  
+  abstract int move(Object[][] vision);
+ 
+  abstract void eat(Object organism);
+  
+  abstract void breed(Object organism);
+}

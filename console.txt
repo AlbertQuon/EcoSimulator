@@ -1,0 +1,220 @@
+Welcome to DrJava.  Working directory is C:\Users\xtrem\Dropbox\School\Grade 11\Computer Science\Unit 3\Assignment
+> run EcoSimAssign
+Enter the amount of wolves (Recommended: 40)
+ [DrJava Input Box]
+Enter the amount of sheep (Recommended: 20)
+ [DrJava Input Box]
+Enter the amount of plants (Recommended: 50)
+ [DrJava Input Box]
+Enter the initial health for wolves (Recommended: 100)
+ [DrJava Input Box]
+Enter the initial health for sheeps (Recommended: 8)
+ [DrJava Input Box]
+10
+4
+6
+Map size: 10 by 10
+Screen size: 1366x768 Ratio: 69
+Wolf@69a67521
+this is:4
+Wolf@4eb8cd18
+wolf breed
+this is:10
+new born
+Wolf@68b0868f
+109
+wolf eat sheep
+this is:7
+r
+Wolf@68b0868f
+118
+wolf eat sheep
+this is:7
+r
+Wolf@68b0868f
+127
+wolf eat sheep
+this is:5
+d
+Wolf@517fbe72
+this is:6
+u
+Sheep@7676b22e
+this is:8
+l
+Sheep@7aa88d3b
+this is:5
+d
+Sheep@3a4fdc15
+this is:0
+Wolf@68b0868f
+135
+wolf eat sheep
+this is:8
+l
+Sheep@6d6ff6d6
+this is:5
+d
+Sheep@7aa88d3b
+this is:7
+r
+Sheep@7aa88d3b
+this is:4
+l
+Sheep@6d6ff6d6
+this is:6
+u
+Wolf@23701012
+this is:1
+d
+Wolf@23701012
+this is:1
+d
+Wolf@23701012
+this is:2
+u
+Sheep Count: 7
+Wolf Count: 10
+Day: 1
+Wolf@69a67521
+this is:3
+r
+Wolf@69a67521
+this is:3
+r
+Wolf@69a67521
+this is:0
+Wolf@517fbe72
+117
+wolf eat sheep
+this is:5
+d
+Wolf@517fbe72
+145
+wolf eat sheep
+this is:7
+r
+Wolf@517fbe72
+192
+wolf eat sheep
+this is:5
+d
+Wolf@68b0868f
+this is:3
+r
+Wolf@68b0868f
+this is:3
+r
+Wolf@68b0868f
+this is:3
+r
+Wolf@68b0868f
+wolf breed
+this is:10
+new born
+Wolf@517fbe72
+this is:5
+d
+Sheep@7aa88d3b
+this is:5
+d
+Wolf@517fbe72
+this is:6
+u
+Sheep@7aa88d3b
+this is:5
+d
+Sheep@7aa88d3b
+this is:2
+u
+Wolf@4fc4a4c5
+this is:3
+r
+Wolf@4fc4a4c5
+this is:1
+d
+Wolf@23701012
+this is:1
+d
+Wolf@4fc4a4c5
+this is:4
+l
+Wolf@23701012
+this is:2
+u
+Sheep Count: 3
+Wolf Count: 17
+Day: 2
+Wolf@69a67521
+this is:2
+Wolf@68b0868f
+wolf breed
+this is:10
+new born
+Wolf@517fbe72
+this is:6
+u
+Sheep@7aa88d3b
+this is:1
+d
+Sheep@7aa88d3b
+this is:3
+r
+Sheep@7aa88d3b
+this is:1
+d
+Sheep@7aa88d3b
+this is:5
+d
+Sheep@7aa88d3b
+this is:8
+l
+Wolf@23701012
+this is:4
+l
+Wolf@4fc4a4c5
+this is:2
+u
+Wolf@53f744fd
+this is:3
+r
+Wolf@53f744fd
+this is:2
+Sheep Count: 5
+Wolf Count: 7
+Day: 3
+Wolf@69a67521
+this is:4
+l
+Wolf@517fbe72
+this is:7
+r
+Wolf@517fbe72
+this is:2
+u
+Wolf@68b0868f
+this is:1
+d
+Wolf@68b0868f
+this is:2
+u
+Sheep@7aa88d3b
+this is:6
+u
+Wolf@4fc4a4c5
+this is:1
+d
+Wolf@23701012
+this is:4
+l
+Wolf@4fc4a4c5
+this is:1
+d
+Wolf@4fc4a4c5
+this is:4
+l
+Wolf@53f744fd
+this is:2
+Sheep Count: 1
+Wolf Count: 10
+Day: 4
